@@ -1,4 +1,4 @@
-//packageName.as//
+//ac_roblox.as//
 {
   "version":"1",
   "source":"link",
